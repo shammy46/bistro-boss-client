@@ -1,5 +1,5 @@
 import SectionTitle from "../../../../Components/SectionTitle/SectionTitle";
-import featuredImg from "../../../../assets/home/featured.jpg"; 
+import featuredImg from "../../../../assets/home/featured.jpg";
 import './Featured.css'
 
 
@@ -16,7 +16,7 @@ const Featured = () => {
                     <p>Aug 20. 2024 </p>
                     <p className="uppercase">where can I get some?</p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi facere eligendi pariatur quod! Assumenda nobis ex illo omnis unde odio.</p>
-               <button className="btn btn-outline border-0 border-b-4 mt-4">Order now</button>
+                    <button className="btn btn-outline border-0 border-b-4 mt-4">Order now</button>
                 </div>
             </div>
         </div>
